@@ -1,0 +1,493 @@
+Info: Processing symbol 'BZ1:Buzzer_Beeper:Buzzer_12x9.5RM7.6'.
+Info: Processing symbol 'FB1:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D5:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'J1:Connector_BarrelJack:BarrelJack_Horizontal'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'D4:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J2:TerminalBlock:TerminalBlock_bornier-2_P5.08mm'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'D3:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'J3:Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm'.
+Info: Processing symbol 'K1:Relay_THT:Relay_SPDT_Finder_36.11'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D7:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'D2:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'D6:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH-12mm'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_PUSH-12mm'.
+Info: Processing symbol 'SW3:Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm'.
+Info: Processing symbol 'SW4:Button_Switch_THT:SW_PUSH-12mm'.
+Info: Processing symbol 'U1:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'U2:Package_DIP:DIP-40_W15.24mm_LongPads'.
+Info: Processing symbol 'U3:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'U4:Display:LCD-016N002L'.
+Info: Processing symbol 'Y1:Crystal:Crystal_HC52-U_Vertical'.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0603_1608Metric to 1uf.
+Updated C2 symbol association from  to /cf54c91c-6a91-40fd-8d84-2a259e33886d.
+Updated C2 properties.
+Connected C2 pin 1 to +12V.
+Connected C2 pin 2 to GND.
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0603_1608Metric to 1uf.
+Updated C3 symbol association from  to /4b0ed539-ef8a-47ac-9d41-8fe68b956896.
+Updated C3 properties.
+Add net +5V.
+Connected C3 pin 1 to +5V.
+Connected C3 pin 2 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0402_1005Metric to C.
+Updated C4 symbol association from  to /c442f7d5-b851-4816-85d9-482f4632c91f.
+Updated C4 properties.
+Add net Net-(U2-OSC1/CLKI).
+Connected C4 pin 1 to Net-(U2-OSC1/CLKI).
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0402_1005Metric to C.
+Updated C5 symbol association from  to /ed2016cb-dfe7-4cba-9091-40fbea504b3e.
+Updated C5 properties.
+Add net Net-(U2-OSC2/CLKO).
+Connected C5 pin 1 to Net-(U2-OSC2/CLKO).
+Connected C5 pin 2 to GND.
+Added C6 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0402_1005Metric to 47n.
+Updated C6 symbol association from  to /46c57da9-d046-43f5-a79b-6bf784ddd00a.
+Updated C6 properties.
+Connected C6 pin 1 to +5V.
+Connected C6 pin 2 to GND.
+Added C7 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0402_1005Metric to 10n.
+Updated C7 symbol association from  to /b4b229ab-b039-4957-bc00-9419605dadc0.
+Updated C7 properties.
+Connected C7 pin 1 to +5V.
+Connected C7 pin 2 to GND.
+Added C8 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0402_1005Metric to 100n.
+Updated C8 symbol association from  to /75428166-6e25-492b-99fb-24a91a631b5a.
+Updated C8 properties.
+Connected C8 pin 1 to +5V.
+Connected C8 pin 2 to GND.
+Added C9 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0402_1005Metric to 100n.
+Updated C9 symbol association from  to /7daf9a18-03c5-43e1-b0f7-ed41cdb93e75.
+Updated C9 properties.
+Connected C9 pin 1 to +5V.
+Connected C9 pin 2 to GND.
+Added C10 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0402_1005Metric to 100n.
+Updated C10 symbol association from  to /762b4a89-409b-4c3d-8fe4-faf0d2cdfb1c.
+Updated C10 properties.
+Connected C10 pin 1 to +5V.
+Connected C10 pin 2 to GND.
+Added D1 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D3.0mm to Red.
+Updated D1 symbol association from  to /0f9295f1-caf3-4ca6-b252-3c79351765cd.
+Updated D1 properties.
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Connected D1 pin 2 to +5V.
+Added D2 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_D3.0mm to Blue.
+Updated D2 symbol association from  to /bd565677-690e-4158-b076-234fee801386.
+Updated D2 properties.
+Add net Net-(D2-K).
+Connected D2 pin 1 to Net-(D2-K).
+Add net Mode1.
+Connected D2 pin 2 to Mode1.
+Added D3 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D3.
+Changed D3 value from LED_D3.0mm to Blue.
+Updated D3 symbol association from  to /0b9d2b70-9e50-4b65-be00-24bd20b23b56.
+Updated D3 properties.
+Add net Net-(D3-K).
+Connected D3 pin 1 to Net-(D3-K).
+Add net Mode2.
+Connected D3 pin 2 to Mode2.
+Added D4 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D4.
+Changed D4 value from LED_D3.0mm to Blue.
+Updated D4 symbol association from  to /fd2bb0ef-eab3-4a96-90b3-4fec7200d761.
+Updated D4 properties.
+Add net Net-(D4-K).
+Connected D4 pin 1 to Net-(D4-K).
+Add net Mode3.
+Connected D4 pin 2 to Mode3.
+Added D5 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D5.
+Changed D5 value from LED_D3.0mm to Yellow.
+Updated D5 symbol association from  to /d6401fb1-2ed7-4a9f-8509-f0cbd6a1660a.
+Updated D5 properties.
+Add net Net-(D5-K).
+Connected D5 pin 1 to Net-(D5-K).
+Add net Pumping.
+Connected D5 pin 2 to Pumping.
+Added D6 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D6.
+Changed D6 value from LED_D3.0mm to Green.
+Updated D6 symbol association from  to /95bec8f2-df89-4246-bc13-f86fe8097b01.
+Updated D6 properties.
+Add net Net-(D6-K).
+Connected D6 pin 1 to Net-(D6-K).
+Add net Filled.
+Connected D6 pin 2 to Filled.
+Added D7 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D7.
+Changed D7 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4007.
+Updated D7 symbol association from  to /f7e6feaa-31ec-46bd-98a8-aff90153aba1.
+Updated D7 properties.
+Add net Net-(D7-K).
+Connected D7 pin 1 to Net-(D7-K).
+Add net Net-(D7-A).
+Connected D7 pin 2 to Net-(D7-A).
+Added FB1 (footprint 'Inductor_SMD:L_0603_1608Metric').
+Changed REF** reference designator to FB1.
+Changed FB1 value from L_0603_1608Metric to FerriteBead.
+Updated FB1 symbol association from  to /0409ada2-f392-4c1c-aa4d-5e036b749706.
+Updated FB1 properties.
+Add net Net-(SW3-A).
+Connected FB1 pin 1 to Net-(SW3-A).
+Connected FB1 pin 2 to Net-(U3-VI).
+Added J1 (footprint 'Connector_BarrelJack:BarrelJack_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from BarrelJack_Horizontal to Barrel_Jack_Switch_Pin3Ring.
+Updated J1 symbol association from  to /d4a5bf54-ddce-48f0-b0f8-bf1eeeb1c305.
+Updated J1 properties.
+Add net /16V.
+Connected J1 pin 1 to /16V.
+Connected J1 pin 2 to GND.
+Connected J1 pin 3 to GND.
+Added J2 (footprint 'TerminalBlock:TerminalBlock_bornier-2_P5.08mm').
+Changed REF** reference designator to J2.
+Changed J2 value from TerminalBlock_bornier-2_P5.08mm to Screw_Terminal_01x02.
+Updated J2 symbol association from  to /d8cac93d-8226-47be-ab6a-284e09468cba.
+Updated J2 properties.
+Connected J2 pin 1 to GND.
+Add net Net-(J2-Pin_2).
+Connected J2 pin 2 to Net-(J2-Pin_2).
+Added J3 (footprint 'Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm').
+Changed REF** reference designator to J3.
+Changed J3 value from SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm to Conn_01x03_Pin.
+Updated J3 symbol association from  to /06693c6f-d2d0-4292-aadb-621cdf3befe9.
+Updated J3 properties.
+Removed J3 'exclude from BOM' fabrication attribute.
+Connected J3 pin 1 to +5V.
+Add net sensor.
+Connected J3 pin 2 to sensor.
+Connected J3 pin 3 to GND.
+Added K1 (footprint 'Relay_THT:Relay_SPDT_Finder_36.11').
+Changed REF** reference designator to K1.
+Changed K1 value from Relay_SPDT_Finder_36.11 to Relay_SPDT.
+Updated K1 symbol association from  to /d097b266-3a88-4ff5-8dd3-194ba82fd52e.
+Updated K1 properties.
+Connected K1 pin 11 to +12V.
+Add net unconnected-(K1-Pad12).
+Connected K1 pin 12 to unconnected-(K1-Pad12).
+Connected K1 pin 14 to Net-(J2-Pin_2).
+Connected K1 pin A1 to Net-(D7-K).
+Connected K1 pin A2 to Net-(D7-A).
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-92_Inline to BC547.
+Updated Q1 symbol association from  to /966575e8-ce43-4560-ad98-0280af6df314.
+Updated Q1 properties.
+Connected Q1 pin 1 to Net-(D7-A).
+Add net Net-(Q1-B).
+Connected Q1 pin 2 to Net-(Q1-B).
+Connected Q1 pin 3 to GND.
+Added Q2 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q2.
+Changed Q2 value from TO-92_Inline to BC547.
+Updated Q2 symbol association from  to /5d5e194f-73e7-46d5-bb8d-597c29bbfca1.
+Updated Q2 properties.
+Connected Q2 pin 1 to Net-(BZ1--).
+Add net Net-(Q2-B).
+Connected Q2 pin 2 to Net-(Q2-B).
+Connected Q2 pin 3 to GND.
+Added R1 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0402_1005Metric to 1k5.
+Updated R1 symbol association from  to /51fcced9-6657-4ec8-8527-eb0c52bcb5f4.
+Updated R1 properties.
+Connected R1 pin 1 to Net-(D1-K).
+Connected R1 pin 2 to GND.
+Added R2 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0402_1005Metric to 10k.
+Updated R2 symbol association from  to /d8178e96-b75b-4b7a-8831-75a9421b5dc2.
+Updated R2 properties.
+Connected R2 pin 1 to +5V.
+Add net Net-(U2-~{MCLR}/Vpp).
+Connected R2 pin 2 to Net-(U2-~{MCLR}/Vpp).
+Added BZ1 (footprint 'Buzzer_Beeper:Buzzer_12x9.5RM7.6').
+Added R3 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0402_1005Metric to 10k.
+Updated R3 symbol association from  to /fdc27ab6-ce45-4578-9915-c58a93b2010f.
+Updated R3 properties.
+Add net pump.
+Connected R3 pin 1 to pump.
+Connected R3 pin 2 to Net-(Q1-B).
+Changed REF** reference designator to BZ1.
+Added R5 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0402_1005Metric to 1k5.
+Updated R5 symbol association from  to /200ef11f-03fb-4436-918f-3a1d0be4e554.
+Updated R5 properties.
+Connected R5 pin 1 to Net-(D2-K).
+Connected R5 pin 2 to GND.
+Changed BZ1 value from Buzzer_12x9.5RM7.6 to Buzzer.
+Added R6 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0402_1005Metric to 1k5.
+Updated R6 symbol association from  to /c0f2a6f4-7183-4e66-be3f-0e90caa93ec4.
+Updated R6 properties.
+Connected R6 pin 1 to Net-(D3-K).
+Connected R6 pin 2 to GND.
+Updated BZ1 symbol association from  to /2dd80efa-c14d-4ece-8407-752e74462b0d.
+Added R7 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0402_1005Metric to 1k5.
+Updated R7 symbol association from  to /6df5d006-b3fe-4b3e-aed7-d6d823f0a134.
+Updated R7 properties.
+Connected R7 pin 1 to Net-(D4-K).
+Connected R7 pin 2 to GND.
+Updated BZ1 properties.
+Added R8 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0402_1005Metric to 1k5.
+Updated R8 symbol association from  to /e297edd9-ef35-4849-ad4d-9c5af3893ff9.
+Updated R8 properties.
+Connected R8 pin 1 to Net-(D5-K).
+Connected R8 pin 2 to GND.
+Add net +12V.
+Added R9 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0402_1005Metric to 1k5.
+Updated R9 symbol association from  to /f58c7e6b-4a72-446b-8de6-0483614ac380.
+Updated R9 properties.
+Connected R9 pin 1 to Net-(D6-K).
+Connected R9 pin 2 to GND.
+Connected BZ1 pin 1 to +12V.
+Added R10 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R10.
+Changed R10 value from R_0402_1005Metric to 10k.
+Updated R10 symbol association from  to /133cebec-f526-4d68-a436-821d627cdb10.
+Updated R10 properties.
+Add net buzzer.
+Connected R10 pin 1 to buzzer.
+Connected R10 pin 2 to Net-(Q2-B).
+Add net Net-(BZ1--).
+Added RV1 (footprint 'Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_Piher_PT-10-V10_Vertical to R_Potentiometer.
+Updated RV1 symbol association from  to /d46537d5-1e6c-46d5-a929-3e13dc833c7a.
+Updated RV1 properties.
+Connected RV1 pin 1 to +5V.
+Add net Net-(U4-VO).
+Connected RV1 pin 2 to Net-(U4-VO).
+Connected RV1 pin 3 to GND.
+Connected BZ1 pin 2 to Net-(BZ1--).
+Added SW1 (footprint 'Button_Switch_THT:SW_PUSH-12mm').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_PUSH-12mm to SW_Push.
+Updated SW1 symbol association from  to /05baf1f6-f0ec-420c-8bd4-74f6ffffc9c3.
+Updated SW1 properties.
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 2 to Net-(U2-~{MCLR}/Vpp).
+Connected SW1 pin 2 to Net-(U2-~{MCLR}/Vpp).
+Added C1 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added SW2 (footprint 'Button_Switch_THT:SW_PUSH-12mm').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_PUSH-12mm to Start_Button.
+Updated SW2 symbol association from  to /033cee6b-86f1-42bf-add6-a2f9113339c5.
+Updated SW2 properties.
+Add net start_button.
+Connected SW2 pin 1 to start_button.
+Connected SW2 pin 1 to start_button.
+Connected SW2 pin 2 to GND.
+Connected SW2 pin 2 to GND.
+Changed REF** reference designator to C1.
+Added SW3 (footprint 'Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm').
+Changed REF** reference designator to SW3.
+Changed SW3 value from SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm to SW_Wuerth_450301014042.
+Updated SW3 symbol association from  to /7a6137fe-4b7f-4217-9d3d-7ae676f6681e.
+Updated SW3 properties.
+Connected SW3 pin 1 to /16V.
+Add net unconnected-(SW3-C-Pad2).
+Connected SW3 pin 2 to unconnected-(SW3-C-Pad2).
+Connected SW3 pin 3 to Net-(SW3-A).
+Changed C1 value from C_0603_1608Metric to 1uf.
+Added SW4 (footprint 'Button_Switch_THT:SW_PUSH-12mm').
+Changed REF** reference designator to SW4.
+Changed SW4 value from SW_PUSH-12mm to Mode_Button.
+Updated SW4 symbol association from  to /d7e42360-a970-419e-8c92-306d5aac4267.
+Updated SW4 properties.
+Add net Mode_Button.
+Connected SW4 pin 1 to Mode_Button.
+Connected SW4 pin 1 to Mode_Button.
+Connected SW4 pin 2 to GND.
+Connected SW4 pin 2 to GND.
+Updated C1 symbol association from  to /7949c62a-8e39-4fe8-a3ad-aaf1e3fd3e4a.
+Added U1 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to U1.
+Changed U1 value from TO-220-3_Vertical to LM7805_TO220.
+Updated U1 symbol association from  to /74d9bfe1-ac1c-4ac3-b453-f3b802b011cb.
+Updated U1 properties.
+Connected U1 pin 1 to +12V.
+Connected U1 pin 2 to GND.
+Connected U1 pin 3 to +5V.
+Updated C1 properties.
+Added U2 (footprint 'Package_DIP:DIP-40_W15.24mm_LongPads').
+Changed REF** reference designator to U2.
+Changed U2 value from DIP-40_W15.24mm_LongPads to PIC16F877A-IP.
+Updated U2 symbol association from  to /33cb9c8b-59fc-4946-be6d-0e7710a6c8fb.
+Updated U2 properties.
+Connected U2 pin 1 to Net-(U2-~{MCLR}/Vpp).
+Add net unconnected-(U2-AN0/RA0-Pad2).
+Connected U2 pin 2 to unconnected-(U2-AN0/RA0-Pad2).
+Add net unconnected-(U2-AN1/RA1-Pad3).
+Connected U2 pin 3 to unconnected-(U2-AN1/RA1-Pad3).
+Add net unconnected-(U2-CVref/Vref-/AN2/RA2-Pad4).
+Connected U2 pin 4 to unconnected-(U2-CVref/Vref-/AN2/RA2-Pad4).
+Add net unconnected-(U2-Vref+/AN3/RA3-Pad5).
+Connected U2 pin 5 to unconnected-(U2-Vref+/AN3/RA3-Pad5).
+Add net unconnected-(U2-C1OUT/T0CKI/RA4-Pad6).
+Connected U2 pin 6 to unconnected-(U2-C1OUT/T0CKI/RA4-Pad6).
+Add net unconnected-(U2-~{SS}/C2OUT/AN4/RA5-Pad7).
+Connected U2 pin 7 to unconnected-(U2-~{SS}/C2OUT/AN4/RA5-Pad7).
+Add net unconnected-(U2-RE0/~{RD}/AN5-Pad8).
+Connected U2 pin 8 to unconnected-(U2-RE0/~{RD}/AN5-Pad8).
+Add net unconnected-(U2-RE1/~{WR}/AN6-Pad9).
+Connected U2 pin 9 to unconnected-(U2-RE1/~{WR}/AN6-Pad9).
+Add net unconnected-(U2-RE2/~{CS}/AN7-Pad10).
+Connected U2 pin 10 to unconnected-(U2-RE2/~{CS}/AN7-Pad10).
+Connected U2 pin 11 to +5V.
+Connected U2 pin 12 to GND.
+Connected U2 pin 13 to Net-(U2-OSC1/CLKI).
+Connected U2 pin 14 to Net-(U2-OSC2/CLKO).
+Connected U2 pin 15 to Mode1.
+Connected U2 pin 16 to Mode2.
+Connected U2 pin 17 to Mode3.
+Connected U2 pin 18 to Pumping.
+Add net RS.
+Connected U2 pin 19 to RS.
+Add net EN.
+Connected U2 pin 20 to EN.
+Add net unconnected-(U2-RD2/PSP2-Pad21).
+Connected U2 pin 21 to unconnected-(U2-RD2/PSP2-Pad21).
+Add net unconnected-(U2-RD3/PSP3-Pad22).
+Connected U2 pin 22 to unconnected-(U2-RD3/PSP3-Pad22).
+Connected U2 pin 23 to Filled.
+Connected U2 pin 24 to pump.
+Connected U2 pin 25 to buzzer.
+Add net unconnected-(U2-DT/RX/RC7-Pad26).
+Connected U2 pin 26 to unconnected-(U2-DT/RX/RC7-Pad26).
+Add net D4.
+Connected U2 pin 27 to D4.
+Add net D5.
+Connected U2 pin 28 to D5.
+Add net D6.
+Connected U2 pin 29 to D6.
+Add net D7.
+Connected U2 pin 30 to D7.
+Connected U2 pin 31 to GND.
+Connected U2 pin 32 to +5V.
+Connected U2 pin 33 to sensor.
+Connected U2 pin 34 to start_button.
+Connected U2 pin 35 to Mode_Button.
+Add net unconnected-(U2-PGM/RB3-Pad36).
+Connected U2 pin 36 to unconnected-(U2-PGM/RB3-Pad36).
+Add net unconnected-(U2-RB4-Pad37).
+Connected U2 pin 37 to unconnected-(U2-RB4-Pad37).
+Add net unconnected-(U2-RB5-Pad38).
+Connected U2 pin 38 to unconnected-(U2-RB5-Pad38).
+Add net unconnected-(U2-PGC/RB6-Pad39).
+Connected U2 pin 39 to unconnected-(U2-PGC/RB6-Pad39).
+Add net unconnected-(U2-PGD/RB7-Pad40).
+Connected U2 pin 40 to unconnected-(U2-PGD/RB7-Pad40).
+Add net Net-(U3-VI).
+Added U3 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to U3.
+Changed U3 value from TO-220-3_Vertical to LM7812_TO220.
+Updated U3 symbol association from  to /e1b7a0c2-0bf5-430b-b695-43c209507f8f.
+Updated U3 properties.
+Connected U3 pin 1 to Net-(U3-VI).
+Connected U3 pin 2 to GND.
+Connected U3 pin 3 to +12V.
+Connected C1 pin 1 to Net-(U3-VI).
+Added U4 (footprint 'Display:LCD-016N002L').
+Changed REF** reference designator to U4.
+Updated U4 symbol association from  to /597d9219-abc1-4bd3-946d-62495b2b59e2.
+Updated U4 properties.
+Connected U4 pin 1 to GND.
+Connected U4 pin 2 to +5V.
+Connected U4 pin 3 to Net-(U4-VO).
+Connected U4 pin 4 to EN.
+Connected U4 pin 5 to GND.
+Connected U4 pin 6 to RS.
+Add net unconnected-(U4-DB0-Pad7).
+Connected U4 pin 7 to unconnected-(U4-DB0-Pad7).
+Add net unconnected-(U4-DB1-Pad8).
+Connected U4 pin 8 to unconnected-(U4-DB1-Pad8).
+Add net unconnected-(U4-DB2-Pad9).
+Connected U4 pin 9 to unconnected-(U4-DB2-Pad9).
+Add net unconnected-(U4-DB3-Pad10).
+Connected U4 pin 10 to unconnected-(U4-DB3-Pad10).
+Connected U4 pin 11 to D4.
+Connected U4 pin 12 to D5.
+Connected U4 pin 13 to D6.
+Connected U4 pin 14 to D7.
+Connected U4 pin 15 to +5V.
+Connected U4 pin 16 to GND.
+Add net unconnected-(U4-PadA1).
+Connected U4 pin A1 to unconnected-(U4-PadA1).
+Add net unconnected-(U4-PadA2).
+Connected U4 pin A2 to unconnected-(U4-PadA2).
+Add net unconnected-(U4-PadK1).
+Connected U4 pin K1 to unconnected-(U4-PadK1).
+Add net unconnected-(U4-PadK2).
+Connected U4 pin K2 to unconnected-(U4-PadK2).
+Add net GND.
+Added Y1 (footprint 'Crystal:Crystal_HC52-U_Vertical').
+Changed REF** reference designator to Y1.
+Changed Y1 value from Crystal_HC52-U_Vertical to Crystal.
+Updated Y1 symbol association from  to /13544998-17ea-40bb-a077-244917318651.
+Updated Y1 properties.
+Connected Y1 pin 1 to Net-(U2-OSC2/CLKO).
+Connected Y1 pin 2 to Net-(U2-OSC1/CLKI).
+
+
+Info: Total warnings: 0, errors: 0.
